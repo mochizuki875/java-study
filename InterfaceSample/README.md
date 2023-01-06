@@ -1,0 +1,2 @@
+# InterfaceSample
+`Java Interface`のサンプル
